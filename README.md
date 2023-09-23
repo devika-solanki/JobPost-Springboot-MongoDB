@@ -2,7 +2,7 @@
 
 This repository contains a Java REST API project built with Spring Boot that interacts with a MongoDB database. This README provides an overview of the project, instructions for setting it up, and details on how to use the API.<br>
 
-#### Screenshots regrading how application responds to requests using postman and swagger.api is uploded in Screenshots folder of given repo<br>
+**Screenshots regrading how application responds to requests using postman and swagger.api is uploded in Screenshots folder of given repo**<br>
 
 ### Prerequisites
 Before you can run this project, you need to have the following software and tools installed on your system:<br>
