@@ -21,7 +21,6 @@ public class Post {
         return _id;
     }
 
-
     public String getProfile() {
         return profile;
     }
