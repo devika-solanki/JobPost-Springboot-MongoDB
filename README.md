@@ -3,6 +3,7 @@
 This repository contains a Java REST API project built with Spring Boot that interacts with a MongoDB database. This README provides an overview of the project, instructions for setting it up, and details on how to use the API.<br>
 
 **Screenshots regrading how application responds to requests using postman and swagger.api is uploded in Screenshots folder of given repo**<br>
+You can also use Swagger Api instead of Postman and do the related config for Swagger<br>
 
 ### Prerequisites
 Before you can run this project, you need to have the following software and tools installed on your system:<br>
@@ -29,5 +30,5 @@ The API exposes the following endpoints:
 **GET /api/posts/{text}**: Get a resource by ID or any text.<br>
 **POST /api/post**: Create a new resource.<br>
 **PUT /api//update/{id}**: Update a resource by ID.<br>
-**DELETE /api/delete/{id}}**: Delete a resource by ID.<br>
+**DELETE /api/delete/{id}**: Delete a resource by ID.<br>
 Replace /api/resource with your specific resource name and customize the endpoints as needed.
