@@ -25,9 +25,9 @@ spring.data.mongodb.database=<your_collection_name><br>
 ### API Endpoints
 The API exposes the following endpoints:
 
-GET /api/allPosts: Get a list of resources.<br>
-GET /api/resource/posts/{text}: Get a resource by ID or any text.<br>
-POST /api/post: Create a new resource.<br>
-PUT /api//update/{id}: Update a resource by ID.<br>
-DELETE /api//delete/{id}}: Delete a resource by ID.<br>
+**GET /api/allPosts**: Get a list of resources.<br>
+**GET /api/resource/posts/{text}**: Get a resource by ID or any text.<br>
+**POST /api/post**: Create a new resource.<br>
+**PUT /api//update/{id}**: Update a resource by ID.<br>
+**DELETE /api//delete/{id}}**: Delete a resource by ID.<br>
 Replace /api/resource with your specific resource name and customize the endpoints as needed.
