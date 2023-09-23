@@ -7,7 +7,7 @@ This repository contains a Java REST API project built with Spring Boot that int
 ### Prerequisites
 Before you can run this project, you need to have the following software and tools installed on your system:
 
-Java JDK (Java 8 or higher)
+Java JDK (Java 8 or higher)</br>
 Apache Maven
 MongoDB (Make sure MongoDB is running and accessible or you can use Mongo Atlas and create your collection there)
 
