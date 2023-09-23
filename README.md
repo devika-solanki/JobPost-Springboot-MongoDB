@@ -12,38 +12,14 @@ Apache Maven
 MongoDB (Make sure MongoDB is running and accessible or you can use Mongo Atlas and create your collection there)
 
 ### Project Structure
-The project structure is organized as follows:
-java-springboot-mongodb-rest-api/
-│
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── devika/
-│   │   │           └── Joblisting/
-│   │   │               ├── controller/
-│   │   │               ├── model/
-│   │   │               ├── repository/
-│   │   │               └── JoblistingApplication.java
-│   │   │
-│   │   ├── resources/
-│   │   │   ├── application.properties
-│   │   │
-│   ├── test/
-│   │   └── java/
-│   │       └── com/
-│   │           └── devika/
-│   │               └── Joblisting/
-│   │                   └── JoblistingApplication.java
-│   │
-├── .gitignore
-├── README.md
-├── pom.xml
-
 src/main/java/com/devika/Joblisting: This is where your Java source code for the Spring Boot application is located.
+
 src/main/resources: Configuration files, including application.properties for application settings.
+
 src/test: Contains unit and integration tests.
+
 .gitignore: Specifies files and directories to be ignored by Git.
+
 pom.xml: Maven project configuration file.
 
 ### Configuration
